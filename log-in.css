@@ -2,7 +2,5 @@ body{ margin: 0; padding: 0; border: 0; background-color:white; font-family: 'Ma
 /* CABEÇALHO */
 .header{ height: 110px; width: 100%; background-color:#A6333D; z-index: 1400;}
 .menu1{ padding-top: 30px; font-size: 18px; color: black solid; background-color:#A6333D ; font-weight:600;}
-
-/*  LISTA E PUBLICAÇÕES*/
-.top{color: black; font-size: 15px; border-radius: 0; font-weight: bold;}
-.lista{ color: black; border-width: 2px;}
+/* LOG-IN! */
+.form{background-color: rgb(180, 180, 180); color: black; font-size: 22px;}
